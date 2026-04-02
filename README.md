@@ -8,7 +8,7 @@
 3. The LA's tastes in games are similar to mine as they also like Nintendo games and multiplayer games. They also agree that challenge in games is important to drive players to continue playing to feel a sense of achievement.
 
 ### Activity 2
-Put your activity 2 image here. REMOVE THIS INSTRUCTIONAL TEXT.
+[Game breakdown](https://github.com/user-attachments/files/26426301/Game.breakdown.pdf)
 
 
 ## W2
