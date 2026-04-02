@@ -1,7 +1,7 @@
 # GDIM 33 In-Class Activities
 ## W1
 ### Activity 1
-Put your inspo board link here. Do NOT leave a bare URL. REMOVE ALL INSTRUCTIONAL TEXT.
+![GDIM 33 Game Brainstorm](https://github.com/user-attachments/assets/c4c90e41-2e10-410c-b1ed-7f9e47123461)
 
 1. Put your activity 1 answers here.
 2. Please keep the proper list format.
