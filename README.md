@@ -16,6 +16,12 @@
 ![Game breakdown](https://github.com/user-attachments/assets/1eea2ce8-83ac-4b40-a612-5bafd2633f74)
 
 ### Activity 2
+1. It is advantageous to save the event name for the explore-to-dialogue state transitions as a Scene variable in order to call it in other graphs and access it elsewhere.
+2. Using the Debug.Log() node helped test if my clicks were being picked up by the Walrus when the player is in range of dialogue.
+3. The Set Cursor Lock State is not relevant to my vertical slice in particular as I am not using point-and-click 3D navigation and I am using a 2D platformer where there is no "perspective" of a first/third person character.
+4. The concept of a game state is relevant to my vertical slice as I may need to alter portions of the game that is in daylight or in the shade.
+
+
 
 
 
