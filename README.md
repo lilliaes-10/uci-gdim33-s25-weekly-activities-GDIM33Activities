@@ -10,7 +10,7 @@
 ### Activity 2
 ![Game breakdown](https://github.com/user-attachments/assets/8ceda3a9-1d2f-495a-8d56-bc4481b7525e)
 
-
+#
 ## W3
 ### Activity 1
 ![Game breakdown](https://github.com/user-attachments/assets/1eea2ce8-83ac-4b40-a612-5bafd2633f74)
