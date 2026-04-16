@@ -13,6 +13,11 @@
 
 ## W3
 ### Activity 1
+![Game breakdown](https://github.com/user-attachments/assets/1eea2ce8-83ac-4b40-a612-5bafd2633f74)
+
+### Activity 2
+
+
 
 
 
