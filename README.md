@@ -11,7 +11,8 @@
 ![Game breakdown](https://github.com/user-attachments/assets/8ceda3a9-1d2f-495a-8d56-bc4481b7525e)
 
 
-## W2
-Write your W2 Devlog here.
+## W3
+### Activity 1
 
-Continue adding additional headers below this one for future weeks and future activities.
+
+
